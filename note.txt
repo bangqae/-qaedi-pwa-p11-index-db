@@ -1,0 +1,11 @@
+~belajar indexdb~
+
+Berikan penjelasan dengan komentar
+Tambahkan :
+	RWD(responsive)
+	Offline(SW, fetch & cache)
+
+
+
+Penting:
+Tabel = Object Store
